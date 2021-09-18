@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Salman Khan",
+    "age": "50",
+    "city": "Mombai"
+  },
+  {
+    "id": "2",
+    "name": "Shahrukh Khan",
+    "age": "60",
+    "city": "Delhi"
+  },
+  {
+    "id": "3",
+    "name": "Priyanka",
+    "age": "30",
+    "city": "Dhaka"
+  },
+  {
+    "id": "4",
+    "name": "Emran",
+    "age": "20",
+    "city": "Dinajpur"
+  }
+]
